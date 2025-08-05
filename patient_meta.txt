@@ -1,0 +1,162 @@
+"time";"value";"field";"measurement";"hospital_ID";"patient_ID"
+"2021-09-01T00:09:00Z";"34.87";"gestational_age";"patient";"UZA";257777778
+"1921-09-01T00:09:00Z";"1895";"birth_weight";"patient";"UZA";257777778
+"2021-09-01T00:09:00Z";"Bed  1";"NICU_ID";"patient";"UZA";257777778
+"2021-09-01T00:09:00Z";"Aa1";"firstname";"patient";"UZA";257777778
+"2021-09-01T00:09:00Z";"Bb1";"lastname";"patient";"UZA";257777778
+"2021-09-01T00:09:00Z";"2021-08-30 12:00:00";"date_of_birth";"patient";"UZA";257777778
+"2021-09-11T00:09:00Z";"true";"discharge";"patient";"UZA";257777778
+"2021-09-04T00:09:00Z";"27.77";"gestational_age";"patient";"UZA";257777779
+"1921-09-04T00:09:00Z";"1030";"birth_weight";"patient";"UZA";257777779
+"2021-09-04T00:09:00Z";"Bed  2";"NICU_ID";"patient";"UZA";257777779
+"2021-09-04T00:09:00Z";"Aa2";"firstname";"patient";"UZA";257777779
+"2021-09-04T00:09:00Z";"Bb2";"lastname";"patient";"UZA";257777779
+"2021-09-04T00:09:00Z";"2021-08-31 08:00:00";"date_of_birth";"patient";"UZA";257777779
+"2021-09-14T00:09:00Z";"true";"discharge";"patient";"UZA";257777779
+"2021-09-10T00:09:00Z";"23.84";"gestational_age";"patient";"UZA";257777781
+"1921-09-10T00:09:00Z";"0.556";"birth_weight";"patient";"UZA";257777781
+"2021-09-10T00:09:00Z";"Bed  4";"NICU_ID";"patient";"UZA";257777781
+"2021-09-10T00:09:00Z";"Aa4";"firstname";"patient";"UZA";257777781
+"2021-09-10T00:09:00Z";"Bb4";"lastname";"patient";"UZA";257777781
+"2021-09-10T00:09:00Z";"2021-09-07 13:00:00";"date_of_birth";"patient";"UZA";257777781
+"2021-09-20T00:09:00Z";"true";"discharge";"patient";"UZA";257777781
+"2021-09-16T00:09:00Z";"32.5";"gestational_age";"patient";"UZA";257777783
+"1921-09-16T00:09:00Z";"1615";"birth_weight";"patient";"UZA";257777783
+"2021-09-16T00:09:00Z";"Bed  6";"NICU_ID";"patient";"UZA";257777783
+"2021-09-16T00:09:00Z";"Aa6";"firstname";"patient";"UZA";257777783
+"2021-09-16T00:09:00Z";"Bb6";"lastname";"patient";"UZA";257777783
+"2021-09-16T00:09:00Z";"2021-09-13 10:00:00";"date_of_birth";"patient";"UZA";257777783
+"2021-09-26T00:09:00Z";"true";"discharge";"patient";"UZA";257777783
+"2021-09-22T00:09:00Z";"34.66";"gestational_age";"patient";"UZA";257777785
+"1921-09-22T00:09:00Z";"1873";"birth_weight";"patient";"UZA";257777785
+"2021-09-22T00:09:00Z";"Bed  8";"NICU_ID";"patient";"UZA";257777785
+"2021-09-22T00:09:00Z";"Aa8";"firstname";"patient";"UZA";257777785
+"2021-09-22T00:09:00Z";"Bb8";"lastname";"patient";"UZA";257777785
+"2021-09-22T00:09:00Z";"2021-09-20 11:00:00";"date_of_birth";"patient";"UZA";257777785
+"2021-10-02T00:10:00Z";"true";"discharge";"patient";"UZA";257777785
+"2021-09-25T00:09:00Z";"24.99";"gestational_age";"patient";"UZA";257777786
+"1921-09-25T00:09:00Z";"714";"birth_weight";"patient";"UZA";257777786
+"2021-09-25T00:09:00Z";"Bed  1";"NICU_ID";"patient";"UZA";257777786
+"2021-09-25T00:09:00Z";"Aa9";"firstname";"patient";"UZA";257777786
+"2021-09-25T00:09:00Z";"Bb9";"lastname";"patient";"UZA";257777786
+"2021-09-25T00:09:00Z";"2021-09-22 14:00:00";"date_of_birth";"patient";"UZA";257777786
+"2021-10-05T00:10:00Z";"true";"discharge";"patient";"UZA";257777786
+"2021-09-28T00:09:00Z";"28.51";"gestational_age";"patient";"UZA";257777787
+"1921-09-28T00:09:00Z";"1125";"birth_weight";"patient";"UZA";257777787
+"2021-09-28T00:09:00Z";"Bed  2";"NICU_ID";"patient";"UZA";257777787
+"2021-09-28T00:09:00Z";"Aa10";"firstname";"patient";"UZA";257777787
+"2021-09-28T00:09:00Z";"Bb10";"lastname";"patient";"UZA";257777787
+"2021-09-28T00:09:00Z";"2021-09-25 03:00:00";"date_of_birth";"patient";"UZA";257777787
+"2021-10-08T00:10:00Z";"true";"discharge";"patient";"UZA";257777787
+"2021-10-01T00:10:00Z";"25.06";"gestational_age";"patient";"UZA";257777788
+"1921-10-01T00:10:00Z";"721";"birth_weight";"patient";"UZA";257777788
+"2021-10-01T00:10:00Z";"Bed  3";"NICU_ID";"patient";"UZA";257777788
+"2021-10-01T00:10:00Z";"Aa11";"firstname";"patient";"UZA";257777788
+"2021-10-01T00:10:00Z";"Bb11";"lastname";"patient";"UZA";257777788
+"2021-10-01T00:10:00Z";"2021-09-27 05:00:00";"date_of_birth";"patient";"UZA";257777788
+"2021-10-11T00:10:00Z";"true";"discharge";"patient";"UZA";257777788
+"2021-10-04T00:10:00Z";"25.78";"gestational_age";"patient";"UZA";257777789
+"1921-10-04T00:10:00Z";"795";"birth_weight";"patient";"UZA";257777789
+"2021-10-04T00:10:00Z";"Bed  4";"NICU_ID";"patient";"UZA";257777789
+"2021-10-04T00:10:00Z";"Aa12";"firstname";"patient";"UZA";257777789
+"2021-10-04T00:10:00Z";"Bb12";"lastname";"patient";"UZA";257777789
+"2021-10-04T00:10:00Z";"2021-10-02 07:00:00";"date_of_birth";"patient";"UZA";257777789
+"2021-10-14T00:10:00Z";"true";"discharge";"patient";"UZA";257777789
+"2021-10-07T00:10:00Z";"32.27";"gestational_age";"patient";"UZA";257777790
+"1921-10-07T00:10:00Z";"1585";"birth_weight";"patient";"UZA";257777790
+"2021-10-07T00:10:00Z";"Bed  5";"NICU_ID";"patient";"UZA";257777790
+"2021-10-07T00:10:00Z";"Aa13";"firstname";"patient";"UZA";257777790
+"2021-10-07T00:10:00Z";"Bb13";"lastname";"patient";"UZA";257777790
+"2021-10-07T00:10:00Z";"2021-10-04 21:00:00";"date_of_birth";"patient";"UZA";257777790
+"2021-10-17T00:10:00Z";"true";"discharge";"patient";"UZA";257777790
+"2021-10-13T00:10:00Z";"28.44";"gestational_age";"patient";"UZA";257777792
+"1921-10-13T00:10:00Z";"1130";"birth_weight";"patient";"UZA";257777792
+"2021-10-13T00:10:00Z";"Bed  7";"NICU_ID";"patient";"UZA";257777792
+"2021-10-13T00:10:00Z";"Aa15";"firstname";"patient";"UZA";257777792
+"2021-10-13T00:10:00Z";"Bb15";"lastname";"patient";"UZA";257777792
+"2021-10-13T00:10:00Z";"2021-10-10 14:00:00";"date_of_birth";"patient";"UZA";257777792
+"2021-10-23T00:10:00Z";"true";"discharge";"patient";"UZA";257777792
+"2021-10-16T00:10:00Z";"24.02";"gestational_age";"patient";"UZA";257777793
+"1921-10-16T00:10:00Z";"582";"birth_weight";"patient";"UZA";257777793
+"2021-10-16T00:10:00Z";"Bed  8";"NICU_ID";"patient";"UZA";257777793
+"2021-10-16T00:10:00Z";"Aa16";"firstname";"patient";"UZA";257777793
+"2021-10-16T00:10:00Z";"Bb16";"lastname";"patient";"UZA";257777793
+"2021-10-16T00:10:00Z";"2021-10-13 23:00:00";"date_of_birth";"patient";"UZA";257777793
+"2021-10-26T00:10:00Z";"true";"discharge";"patient";"UZA";257777793
+"2021-10-22T00:10:00Z";"23.1";"gestational_age";"patient";"UZA";257777795
+"1921-10-22T00:10:00Z";"486";"birth_weight";"patient";"UZA";257777795
+"2021-10-22T00:10:00Z";"Bed  2";"NICU_ID";"patient";"UZA";257777795
+"2021-10-22T00:10:00Z";"Aa18";"firstname";"patient";"UZA";257777795
+"2021-10-22T00:10:00Z";"Bb18";"lastname";"patient";"UZA";257777795
+"2021-10-22T00:10:00Z";"2021-10-19 11:00:00";"date_of_birth";"patient";"UZA";257777795
+"2021-11-01T00:11:00Z";"true";"discharge";"patient";"UZA";257777795
+"2021-10-25T00:10:00Z";"34.83";"gestational_age";"patient";"UZA";257777796
+"1921-10-25T00:10:00Z";"1897";"birth_weight";"patient";"UZA";257777796
+"2021-10-25T00:10:00Z";"Bed  3";"NICU_ID";"patient";"UZA";257777796
+"2021-10-25T00:10:00Z";"Aa19";"firstname";"patient";"UZA";257777796
+"2021-10-25T00:10:00Z";"Bb19";"lastname";"patient";"UZA";257777796
+"2021-10-25T00:10:00Z";"2021-10-22 16:00:00";"date_of_birth";"patient";"UZA";257777796
+"2021-11-04T00:11:00Z";"true";"discharge";"patient";"UZA";257777796
+"2021-10-31T00:10:00Z";"30.67";"gestational_age";"patient";"UZA";257777798
+"1921-10-31T00:10:00Z";"1388";"birth_weight";"patient";"UZA";257777798
+"2021-10-31T00:10:00Z";"Bed  5";"NICU_ID";"patient";"UZA";257777798
+"2021-10-31T00:10:00Z";"Aa21";"firstname";"patient";"UZA";257777798
+"2021-10-31T00:10:00Z";"Bb21";"lastname";"patient";"UZA";257777798
+"2021-10-31T00:10:00Z";"2021-10-28 13:00:00";"date_of_birth";"patient";"UZA";257777798
+"2021-11-10T00:11:00Z";"true";"discharge";"patient";"UZA";257777798
+"2021-11-03T00:11:00Z";"26.54";"gestational_age";"patient";"UZA";257777799
+"1921-11-03T00:11:00Z";"896";"birth_weight";"patient";"UZA";257777799
+"2021-11-03T00:11:00Z";"Bed  6";"NICU_ID";"patient";"UZA";257777799
+"2021-11-03T00:11:00Z";"Aa22";"firstname";"patient";"UZA";257777799
+"2021-11-03T00:11:00Z";"Bb22";"lastname";"patient";"UZA";257777799
+"2021-11-03T00:11:00Z";"2021-10-31 15:00:00";"date_of_birth";"patient";"UZA";257777799
+"2021-11-13T00:11:00Z";"true";"discharge";"patient";"UZA";257777799
+"2021-11-06T00:11:00Z";"34.96";"gestational_age";"patient";"UZA";257777800
+"1921-11-06T00:11:00Z";"1908";"birth_weight";"patient";"UZA";257777800
+"2021-11-06T00:11:00Z";"Bed  7";"NICU_ID";"patient";"UZA";257777800
+"2021-11-06T00:11:00Z";"Aa23";"firstname";"patient";"UZA";257777800
+"2021-11-06T00:11:00Z";"Bb23";"lastname";"patient";"UZA";257777800
+"2021-11-06T00:11:00Z";"2021-11-03 16:00:00";"date_of_birth";"patient";"UZA";257777800
+"2021-11-16T00:11:00Z";"true";"discharge";"patient";"UZA";257777800
+"2021-11-09T00:11:00Z";"33.87";"gestational_age";"patient";"UZA";257777801
+"1921-11-09T00:11:00Z";"1.773";"birth_weight";"patient";"UZA";257777801
+"2021-11-09T00:11:00Z";"Bed  8";"NICU_ID";"patient";"UZA";257777801
+"2021-11-09T00:11:00Z";"Aa24";"firstname";"patient";"UZA";257777801
+"2021-11-09T00:11:00Z";"Bb24";"lastname";"patient";"UZA";257777801
+"2021-11-09T00:11:00Z";"2021-11-05 22:00:00";"date_of_birth";"patient";"UZA";257777801
+"2021-11-19T00:11:00Z";"true";"discharge";"patient";"UZA";257777801
+"2021-11-12T00:11:00Z";"34.86";"gestational_age";"patient";"UZA";257777802
+"1921-11-12T00:11:00Z";"1895";"birth_weight";"patient";"UZA";257777802
+"2021-11-12T00:11:00Z";"Bed  1";"NICU_ID";"patient";"UZA";257777802
+"2021-11-12T00:11:00Z";"Aa25";"firstname";"patient";"UZA";257777802
+"2021-11-12T00:11:00Z";"Bb25";"lastname";"patient";"UZA";257777802
+"2021-11-12T00:11:00Z";"2021-11-08 19:00:00";"date_of_birth";"patient";"UZA";257777802
+"2021-11-22T00:11:00Z";"true";"discharge";"patient";"UZA";257777802
+"2021-11-15T00:11:00Z";"23.79";"gestational_age";"patient";"UZA";257777803
+"1921-11-15T00:11:00Z";"556";"birth_weight";"patient";"UZA";257777803
+"2021-11-15T00:11:00Z";"Bed  2";"NICU_ID";"patient";"UZA";257777803
+"2021-11-15T00:11:00Z";"Aa26";"firstname";"patient";"UZA";257777803
+"2021-11-15T00:11:00Z";"Bb26";"lastname";"patient";"UZA";257777803
+"2021-11-15T00:11:00Z";"2021-11-12 15:00:00";"date_of_birth";"patient";"UZA";257777803
+"2021-11-25T00:11:00Z";"true";"discharge";"patient";"UZA";257777803
+"2021-11-18T00:11:00Z";"30.52";"gestational_age";"patient";"UZA";257777804
+"1921-11-18T00:11:00Z";"1357";"birth_weight";"patient";"UZA";257777804
+"2021-11-18T00:11:00Z";"Bed  3";"NICU_ID";"patient";"UZA";257777804
+"2021-11-18T00:11:00Z";"Aa27";"firstname";"patient";"UZA";257777804
+"2021-11-18T00:11:00Z";"Bb27";"lastname";"patient";"UZA";257777804
+"2021-11-18T00:11:00Z";"2021-11-16 08:00:00";"date_of_birth";"patient";"UZA";257777804
+"2021-11-28T00:11:00Z";"true";"discharge";"patient";"UZA";257777804
+"2021-11-21T00:11:00Z";"28.89";"gestational_age";"patient";"UZA";257777805
+"1921-11-21T00:11:00Z";"1162";"birth_weight";"patient";"UZA";257777805
+"2021-11-21T00:11:00Z";"Bed  4";"NICU_ID";"patient";"UZA";257777805
+"2021-11-21T00:11:00Z";"Aa28";"firstname";"patient";"UZA";257777805
+"2021-11-21T00:11:00Z";"Bb28";"lastname";"patient";"UZA";257777805
+"2021-11-21T00:11:00Z";"2021-11-18 10:00:00";"date_of_birth";"patient";"UZA";257777805
+"2021-12-01T00:12:00Z";"true";"discharge";"patient";"UZA";257777805
+"2021-11-27T00:11:00Z";"27.35";"gestational_age";"patient";"UZA";257777807
+"1921-11-27T00:11:00Z";"980";"birth_weight";"patient";"UZA";257777807
+"2021-11-27T00:11:00Z";"Bed  6";"NICU_ID";"patient";"UZA";257777807
+"2021-11-27T00:11:00Z";"Aa30";"firstname";"patient";"UZA";257777807
+"2021-11-27T00:11:00Z";"Bb30";"lastname";"patient";"UZA";257777807
+"2021-11-27T00:11:00Z";"2021-11-25 06:00:00";"date_of_birth";"patient";"UZA";257777807
+"2021-12-07T00:12:00Z";"true";"discharge";"patient";"UZA";257777807
